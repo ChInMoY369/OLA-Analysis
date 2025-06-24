@@ -90,11 +90,11 @@ Here’s a breakdown of what each dashboard page focuses on, along with the **KP
 ## 📷 Preview
 
 <p align="center">
-  <img src="Preview/Overall Page.png" width="150"/>
-  <img src="Preview/Vehicle_type Page.png" width="150"/>
-  <img src="Preview/Revenue Page.png" width="150"/>
-  <img src="Preview/Cancellation Page.png" width="150"/>
-  <img src="Preview/Ratings Page.png" width="150"/>
+  <img src="Preview/Overall Page.png" width="300"/>
+  <img src="Preview/Vehicle_type Page.png" width="300"/>
+  <img src="Preview/Revenue Page.png" width="300"/>
+  <img src="Preview/Cancellation Page.png" width="300"/>
+  <img src="Preview/Ratings Page.png" width="300"/>
 </p>
 
 ---
